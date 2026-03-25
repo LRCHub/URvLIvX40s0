@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "中庭の少女たち",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2026-03-25T01:23:06.965836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "中庭の少女たち",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/01_中庭の少女たち_SHISHAMO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "中庭の少女たち",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_中庭の少女たち_SHISHAMO.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "中庭の少女たち",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/localdb_01_中庭の少女たち_SHISHAMO.txt",
+      "repo_name": "CvY8Qj9dgW8"
+    }
+  ]
+}
